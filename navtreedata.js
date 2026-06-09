@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "Circular Queue", "index.html", [
+    [ "Documentation Circular queues", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['circularqueues_2ecpp_0',['circularQueues.cpp',['../circular_queues_8cpp.html',1,'']]]
+  ['circular_20queues_0',['Documentation Circular queues',['../index.html',1,'']]],
+  ['circularqueues_2ecpp_1',['circularQueues.cpp',['../circular_queues_8cpp.html',1,'']]]
 ];

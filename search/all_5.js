@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['remove_0',['remove',['../class_queues.html#ac709e90a518a5028651c8c429c242082',1,'Queues']]]
+  ['queues_0',['Queues',['../class_queues.html',1,'Queues'],['../class_queues.html#a27d3ceab61177fd964098d2e279e45b6',1,'Queues::Queues()']]],
+  ['queues_1',['Documentation Circular queues',['../index.html',1,'']]]
 ];
